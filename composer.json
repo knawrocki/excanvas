@@ -1,0 +1,22 @@
+{
+	"name"        : "knawrocki/excanvas",
+	"description" : "ExplorerCanvas",
+	"version"     : "1.0.0",
+	"license"     : "MIT",
+	"authors": [
+		{
+	    "name" : "Emil A Eklund",
+	    "email" : "emil@eae.net"
+		},
+    {
+	    "name" : "Erik Arvidsson",
+	    "email" : "erik@eae.net"
+		},
+    {
+	    "name" : "Glen Murphy",
+	    "email" : "glen@glenmurphy.com"
+		}
+
+	]
+
+}
